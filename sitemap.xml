@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://benhendrick.github.io/post/second/</loc>
+    <lastmod>2017-12-03T16:23:27-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://benhendrick.github.io/post/my-frist-post/</loc>
     <lastmod>2017-12-01T20:06:20-06:00</lastmod>
   </url>
@@ -13,37 +18,37 @@
   </url>
   
   <url>
-    <loc>https://benhendrick.github.io/tags/</loc>
-    <lastmod>2017-12-01T20:06:20-06:00</lastmod>
+    <loc>https://benhendrick.github.io/categories/</loc>
+    <lastmod>2017-12-03T16:23:27-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://benhendrick.github.io/categories/</loc>
-    <lastmod>2017-12-01T20:06:20-06:00</lastmod>
+    <loc>https://benhendrick.github.io/tags/</loc>
+    <lastmod>2017-12-03T16:23:27-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://benhendrick.github.io/</loc>
-    <lastmod>2017-12-01T20:06:20-06:00</lastmod>
+    <lastmod>2017-12-03T16:23:27-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://benhendrick.github.io/categories/</loc>
-    <lastmod>2017-12-01T20:06:20-06:00</lastmod>
+    <lastmod>2017-12-03T16:23:27-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://benhendrick.github.io/post/</loc>
-    <lastmod>2017-12-01T20:06:20-06:00</lastmod>
+    <lastmod>2017-12-03T16:23:27-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://benhendrick.github.io/tags/</loc>
-    <lastmod>2017-12-01T20:06:20-06:00</lastmod>
+    <lastmod>2017-12-03T16:23:27-06:00</lastmod>
     <priority>0</priority>
   </url>
   
