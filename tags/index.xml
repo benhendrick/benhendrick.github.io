@@ -6,19 +6,9 @@
     <description>Recent content in Tags on Blog Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Dec 2017 16:23:27 -0600</lastBuildDate>
     
 	<atom:link href="https://benhendrick.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://benhendrick.github.io/tags/</link>
-      <pubDate>Sun, 03 Dec 2017 16:23:27 -0600</pubDate>
-      
-      <guid>https://benhendrick.github.io/tags/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
