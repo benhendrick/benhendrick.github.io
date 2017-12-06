@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Blog Title</title>
+    <title>Posts on Ben Hendrick</title>
     <link>https://benhendrick.github.io/post/</link>
-    <description>Recent content in Posts on Blog Title</description>
+    <description>Recent content in Posts on Ben Hendrick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 Dec 2017 16:50:51 -0600</lastBuildDate>

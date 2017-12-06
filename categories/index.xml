@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Blog Title</title>
+    <title>Ben Hendrick</title>
     <link>https://benhendrick.github.io/categories/</link>
-    <description>Recent content in Categories on Blog Title</description>
+    <description>Recent content on Ben Hendrick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 Dec 2017 16:50:51 -0600</lastBuildDate>
@@ -12,12 +12,13 @@
     
     
     <item>
-      <title></title>
-      <link>https://benhendrick.github.io/categories/</link>
+      <title>Single-Tasking and the Virtue of Justice</title>
+      <link>https://benhendrick.github.io/post/single-tasking-justice/</link>
       <pubDate>Mon, 04 Dec 2017 16:50:51 -0600</pubDate>
       
-      <guid>https://benhendrick.github.io/categories/</guid>
-      <description></description>
+      <guid>https://benhendrick.github.io/post/single-tasking-justice/</guid>
+      <description>I&amp;rsquo;ve decided to make some changes at work. It&amp;rsquo;s not because my work is low quality, but because the way I&amp;rsquo;m working is low quality.
+I came of age surrounded by screens, sounds, and Internet access. The years of this digital noise have kind of ruined the way I work. I have a short attention span. I can hardly sit at a desk without putting headphones in my ears. Its tough for me to get a task done without having started another at the same time.</description>
     </item>
     
   </channel>
