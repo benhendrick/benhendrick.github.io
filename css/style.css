@@ -271,6 +271,8 @@ ul {
 }
 
 li {
+    padding-left: 1em;
+    text-indent: -1em;
     list-style-position: inside;
 }
 
@@ -355,7 +357,7 @@ em, i {
     margin: -5px 0 40px 0;
     color: #b2b9be;
     font-size: 13px;
-    text-transform: uppercase;
+    text-transform: lowercase;
     letter-spacing: 2px;
     margin-top: 5px;
     display: block;
